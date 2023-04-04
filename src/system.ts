@@ -19,7 +19,7 @@ export const defaultMessage = `Powered by OpenAI
 
 - API Key仅缓存在浏览器中，镜像站不保存API Key，请妥善保管好你的API Key，以免影响使用。  
 
-- 如需**专属镜像站和机器人**请联系我们: [微信](https://pic.hhao.cc/imgs/2023/03/6c4f8dab0ac56e62.jpg) | [邮箱](mailto:wwang.pw@gmail.com) | [商店](https://sh.wwang.pw/)  
+- 如需**专属镜像站和机器人**请联系我们: [微信](https://pic.hhao.cc/imgs/2023/03/6c4f8dab0ac56e62.jpg) | [邮箱](mailto:wwang.pw@gmail.com) | [商店](https://enna.eu.org)  
 
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。点击输入框滚动到底部。`
 
